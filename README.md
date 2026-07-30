@@ -19,17 +19,19 @@ EasyTranslate 使用 DeepSeek 翻译网页中选中的文字。它不在网页�
 
 ## 使用示例
 
-选中即翻译：
+<p align="center">
+  <img src="docs/images/selection-translation.png" alt="选中文字后显示翻译" width="320" />
+  &nbsp;&nbsp;
+  <img src="docs/images/more-meanings.png" alt="查看更多释义和双语例句" width="320" />
+</p>
 
-<img src="docs/images/selection-translation.png" alt="选中文字后显示翻译" width="760" />
+<p align="center">选中即翻译 · 查看更多释义和例句</p>
 
-查看更多释义和例句：
+<p align="center">
+  <img src="docs/images/settings.png" alt="EasyTranslate 设置页面" width="360" />
+</p>
 
-<img src="docs/images/more-meanings.png" alt="查看更多释义和双语例句" width="700" />
-
-设置模型、API Key 和翻译语言：
-
-<img src="docs/images/settings.png" alt="EasyTranslate 设置页面" width="700" />
+<p align="center">设置模型、API Key 和翻译语言</p>
 
 ## 安装
 
