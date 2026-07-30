@@ -1,6 +1,7 @@
 <div align="center">
   <img src="assets/icon-on-128.png" width="96" height="96" alt="EasyTranslate 图标" />
   <h1>EasyTranslate</h1>
+  <p><strong>中文</strong> · <a href="README_EN.md">English</a></p>
   <p>一个简单的 Chrome 网页划词翻译插件。</p>
 </div>
 
@@ -19,19 +20,19 @@ EasyTranslate 使用 DeepSeek 翻译网页中选中的文字。它不在网页�
 
 ## 使用示例
 
-<p align="center">
+选中即翻译 · 查看更多释义和例句
+
+<p>
   <img src="docs/images/selection-translation.png" alt="选中文字后显示翻译" width="320" />
   &nbsp;&nbsp;
   <img src="docs/images/more-meanings.png" alt="查看更多释义和双语例句" width="320" />
 </p>
 
-<p align="center">选中即翻译 · 查看更多释义和例句</p>
+设置模型、API Key 和翻译语言
 
-<p align="center">
+<p>
   <img src="docs/images/settings.png" alt="EasyTranslate 设置页面" width="360" />
 </p>
-
-<p align="center">设置模型、API Key 和翻译语言</p>
 
 ## 安装
 
