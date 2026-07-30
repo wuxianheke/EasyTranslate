@@ -17,6 +17,20 @@ EasyTranslate 使用 DeepSeek 翻译网页中选中的文字。它不在网页�
 
 默认从英语翻译成简体中文，也可以更改语言。点击“更多”可以查看其他意思和简单例句；基础译文会在当前网页缓存 2 天，“更多”的内容不缓存。
 
+## 使用示例
+
+选中即翻译：
+
+<img src="docs/images/selection-translation.png" alt="选中文字后显示翻译" width="760" />
+
+查看更多释义和例句：
+
+<img src="docs/images/more-meanings.png" alt="查看更多释义和双语例句" width="700" />
+
+设置模型、API Key 和翻译语言：
+
+<img src="docs/images/settings.png" alt="EasyTranslate 设置页面" width="700" />
+
 ## 安装
 
 1. 下载本项目并解压。
