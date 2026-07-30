@@ -56,7 +56,6 @@ The translation popup disappears automatically after 10 seconds. Click the popup
 
 - DeepSeek is currently the only supported API, and model usage may cost money.
 - Your API Key is stored only in your local browser. Never commit it to GitHub or post it in an Issue.
-- Chrome internal pages, extension pages, and the Chrome Web Store are not supported.
 - After updating the code, reload the extension at `chrome://extensions/` and refresh any open web pages.
 
 See the [privacy notice](docs/PRIVACY.md) for details about data use.

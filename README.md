@@ -56,7 +56,6 @@ EasyTranslate 使用 DeepSeek 翻译网页中选中的文字。它不在网页�
 
 - 目前只支持 DeepSeek API，调用模型可能产生费用。
 - API Key 只保存在本机浏览器中，请不要把它提交到 GitHub 或发到 Issue。
-- Chrome 内部页面、扩展页面和 Chrome 应用商店不能使用本插件。
 - 更新代码后，需要在 `chrome://extensions/` 重新加载插件，并刷新已经打开的网页。
 
 数据使用说明见[隐私说明](docs/PRIVACY.md)。
