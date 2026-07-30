@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors and IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Dependencies, test output, and temporary files
+node_modules/
+coverage/
+.cache/
+.tmp/
+tmp/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Extension packages and generated output
+dist/
+build/
+release/
+*.crx
+*.zip
+
+# Local AI-agent tooling; not required by the extension
+.agents/
+skills-lock.json

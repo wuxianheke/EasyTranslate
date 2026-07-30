@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_extensionName__",
+  "description": "__MSG_extensionDescription__",
+  "version": "0.1.0",
+  "default_locale": "zh_CN",
+  "minimum_chrome_version": "102",
+  "permissions": ["activeTab", "contextMenus", "scripting", "storage"],
+  "host_permissions": ["https://api.deepseek.com/*"],
+  "optional_host_permissions": ["http://*/*", "https://*/*"],
+  "background": {
+    "service_worker": "src/background.js",
+    "type": "module"
+  },
+  "action": {
+    "default_title": "__MSG_actionEnable__",
+    "default_icon": {
+      "16": "assets/icon-off-16.png",
+      "32": "assets/icon-off-32.png",
+      "48": "assets/icon-off-48.png",
+      "128": "assets/icon-off-128.png"
+    }
+  },
+  "icons": {
+    "16": "assets/icon-on-16.png",
+    "32": "assets/icon-on-32.png",
+    "48": "assets/icon-on-48.png",
+    "128": "assets/icon-on-128.png"
+  },
+  "options_page": "src/options/options.html"
+}
